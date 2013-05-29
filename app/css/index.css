@@ -1,0 +1,61 @@
+#quotation {
+     background-color: #1E90FF;
+     color: #000000;
+ }
+#first {
+    height: 880px;
+    background-color: #1E90FF;
+}
+#records {
+    overflow-Y :scroll;
+    margin: 50px 0px 0px 0px ;
+    height: 530px;
+    width: 900px;
+    font-size: 17px;
+    float: right;
+}
+#addCustomer {
+    color: #000000;
+}
+.logIn{
+    color: white;
+    background-color: black;
+    /*text-shadow: 2px -2px 3px #000;*/
+    text-align: right;
+    font-family: purisa;
+
+}
+#tableScroll{
+    height: 300px ;
+    overflow-Y: scroll;
+}
+
+p{
+    color: red;
+    text-align: center;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+h2 {
+    color: red;
+    text-align: center;
+}
+li a:hover {
+    text-align: center;
+    color: black;
+    background-color: red;
+}
+#view_savingRecords, #viewCusInfo{
+    display: none;
+    color: #000000;
+}
+#profileImage{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+.menuStyle {
+    color: #000000;
+}

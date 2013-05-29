@@ -1,0 +1,36 @@
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%  Banking System %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+DESCRIPTIONS :
+
+	Banking Tellering System allows the teller to keep the records of the customers such as customer's profile
+and customer's savings record. Tellers can add and view customer's profile but cannot be updated as well as the
+customer's savings account. The Admin can view all records of customers but can't update. Admin can add and view
+teller's information. All customers has its own records. They can view their records but no one can update it,
+only the profile/personal information will be updated by the customer itself.
+
+
+FEATURES :
+
+	Teller :
+		The Teller can LOG IN and LOG OUT using his/her username and password.
+		View all Customer's Accounts (Name, Balance, Info, Savings).
+		Add Customers -> Allow tellers to new customers.
+		SEARCH customers via lastname.
+		Deposit and Withdraw money from/to the customer's savings account.
+
+	Admin :
+		LOG IN  and LOG OUT using  username and password.
+		View all Customer's Accounts (Name, Balance, Info, Savings).
+		View all Teller's info.
+		SEARCH customers and tellers via lastname.
+
+	Customers :
+		
+		The customers can LOG IN and LOG OUT using his/her username and password.
+		View/check his/her savings accounts
+		MY PROFILE -> View and Update his/her profile account.
+
+
+

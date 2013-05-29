@@ -1,0 +1,509 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="70ce5686-cece-4381-99c8-b2c44e9847af" name="Default" comment="" />
+    <ignored path="myApplication.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <file path="/bootstrap.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1368500803244" ignored="false" />
+    <file path="/Admin.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1368518055067" ignored="false" />
+    <file path="/bankDao.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369795594993" ignored="false" />
+    <file path="/bank.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369114703057" ignored="false" />
+    <file path="/bank.js" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369181050179" ignored="false" />
+    <file path="/register.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369726056486" ignored="false" />
+    <file path="/login.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369797562492" ignored="false" />
+    <file path="/savings.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1368585671938" ignored="false" />
+    <file path="/notes.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369182842238" ignored="false" />
+    <file path="/add_note.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1368580943232" ignored="false" />
+    <file path="/viewNotes.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1368582764557" ignored="false" />
+    <file path="/index.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369804610038" ignored="false" />
+    <file path="/admin.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369114845798" ignored="false" />
+    <file path="/admin.js" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369185233835" ignored="false" />
+    <file path="/customer.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369804589834" ignored="false" />
+    <file path="/deposit.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369180208207" ignored="false" />
+    <file path="/withdraw.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369116562582" ignored="false" />
+    <file path="/add_customer.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369706429760" ignored="false" />
+    <file path="/teller.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369804935274" ignored="false" />
+    <file path="/teller.js" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369790882241" ignored="false" />
+    <file path="/teller.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369804676846" ignored="false" />
+    <file path="/index.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369618469441" ignored="false" />
+    <file path="/view_admin_tellers.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369193469383" ignored="false" />
+    <file path="/index.js" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369786340087" ignored="false" />
+    <file path="/view_teller_customers.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369202577345" ignored="false" />
+    <file path="/add_teller.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369712067326" ignored="false" />
+    <file path="/search.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369199323186" ignored="false" />
+    <file path="/searchTeller.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369617444327" ignored="false" />
+    <file path="/logout.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369201732170" ignored="false" />
+    <file path="/view_customers.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369202700559" ignored="false" />
+    <file path="/view_savings.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369203268861" ignored="false" />
+    <file path="/customer.css" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369789343572" ignored="false" />
+    <file path="/view_customer.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369204959151" ignored="false" />
+    <file path="/customer.js" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369786641119" ignored="false" />
+    <file path="/BankoDaprosa System.txt" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369611588215" ignored="false" />
+    <file path="/save_customer.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369612130378" ignored="false" />
+    <file path="/view_name_customer.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369791767500" ignored="false" />
+    <file path="/view_name_teller.php" changelist="70ce5686-cece-4381-99c8-b2c44e9847af" time="1369791991830" ignored="false" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="DaemonCodeAnalyzer">
+    <disable_hints />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="myApplication" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file leaf-file-name="bankDao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/DAO/bankDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="49" column="22" selection-start="1764" selection-end="1764" vertical-scroll-proportion="12.5">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="BaseDao.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/DAO/BaseDao.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="28" selection-start="208" selection-end="211" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="73" column="26" selection-start="2924" selection-end="2924" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_teller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/add_teller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="14" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="add_customer.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/add_customer.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="deposit.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/deposit.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="11" column="2" selection-start="207" selection-end="207" vertical-scroll-proportion="-6.875">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teller.php" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/teller.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="71" column="35" selection-start="3059" selection-end="3059" vertical-scroll-proportion="23.75">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="teller.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/css/teller.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="121" column="8" selection-start="1934" selection-end="1942" vertical-scroll-proportion="0.0">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="customer.js" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/js/customer.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="3" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06987578">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindManager">
+    <FindUsagesManager>
+      <setting name="OPEN_NEW_TAB" value="false" />
+    </FindUsagesManager>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="changedFiles">
+      <list>
+        <option value="$PROJECT_DIR$/app/add_teller.php" />
+        <option value="$PROJECT_DIR$/app/add_customer.php" />
+        <option value="$PROJECT_DIR$/app/register.php" />
+        <option value="$PROJECT_DIR$/app/css/customer.css" />
+        <option value="$PROJECT_DIR$/app/view_name_customer.php" />
+        <option value="$PROJECT_DIR$/app/view_name_teller.php" />
+        <option value="$PROJECT_DIR$/app/js/teller.js" />
+        <option value="$PROJECT_DIR$/app/view_name.php" />
+        <option value="$PROJECT_DIR$/app/login.php" />
+        <option value="$PROJECT_DIR$/app/js/index.js" />
+        <option value="$PROJECT_DIR$/app/customer.php" />
+        <option value="$PROJECT_DIR$/app/index.php" />
+        <option value="$PROJECT_DIR$/app/css/teller.css" />
+        <option value="$PROJECT_DIR$/app/teller.php" />
+        <option value="$PROJECT_DIR$/app/DAO/bankDao.php" />
+        <option value="$PROJECT_DIR$/app/js/customer.js" />
+      </list>
+    </option>
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-1" />
+    <option name="y" value="24" />
+    <option name="width" value="1442" />
+    <option name="height" value="853" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectReloadState">
+    <option name="STATE" value="0" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1" splitterProportion="0.5">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents ProjectPane="true" />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daprosa_BTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daprosa_BTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daprosa_BTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="myApplication" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Daprosa_BTS" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="app" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="DAO" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <list size="0" />
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="70ce5686-cece-4381-99c8-b2c44e9847af" name="Default" comment="" />
+      <created>1368494797075</created>
+      <updated>1368494797075</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-1" y="24" width="1442" height="853" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16978417" sideWeight="0.6709585" order="1" side_tool="false" content_ui="combo" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32904148" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="3" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="OFFER_MOVE_TO_ANOTHER_CHANGELIST_ON_PARTIAL_COMMIT" value="true" />
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="true" />
+    <option name="CHECK_NEW_TODO" value="true" />
+    <option name="myTodoPanelSettings">
+      <value>
+        <are-packages-shown value="false" />
+        <are-modules-shown value="false" />
+        <flatten-packages value="false" />
+        <is-autoscroll-to-source value="false" />
+      </value>
+    </option>
+    <option name="PERFORM_UPDATE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_COMMIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_EDIT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_CHECKOUT_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ADD_REMOVE_IN_BACKGROUND" value="true" />
+    <option name="PERFORM_ROLLBACK_IN_BACKGROUND" value="false" />
+    <option name="CHECK_LOCALLY_CHANGED_CONFLICTS_IN_BACKGROUND" value="false" />
+    <option name="CHANGED_ON_SERVER_INTERVAL" value="60" />
+    <option name="SHOW_ONLY_CHANGED_IN_SELECTION_DIFF" value="true" />
+    <option name="CHECK_COMMIT_MESSAGE_SPELLING" value="true" />
+    <option name="DEFAULT_PATCH_EXTENSION" value="patch" />
+    <option name="SHORT_DIFF_HORISONTALLY" value="true" />
+    <option name="SHORT_DIFF_EXTRA_LINES" value="2" />
+    <option name="SOFT_WRAPS_IN_SHORT_DIFF" value="true" />
+    <option name="INCLUDE_TEXT_INTO_PATCH" value="false" />
+    <option name="INCLUDE_TEXT_INTO_SHELF" value="false" />
+    <option name="SHOW_FILE_HISTORY_DETAILS" value="true" />
+    <option name="SHOW_VCS_ERROR_NOTIFICATIONS" value="true" />
+    <option name="SHOW_DIRTY_RECURSIVELY" value="false" />
+    <option name="LIMIT_HISTORY" value="true" />
+    <option name="MAXIMUM_HISTORY_ROWS" value="1000" />
+    <option name="UPDATE_FILTER_SCOPE_NAME" />
+    <option name="USE_COMMIT_MESSAGE_MARGIN" value="false" />
+    <option name="COMMIT_MESSAGE_MARGIN_SIZE" value="72" />
+    <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
+    <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
+    <option name="LAST_COMMIT_MESSAGE" />
+    <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
+    <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="REFORMAT_BEFORE_FILE_COMMIT" value="false" />
+    <option name="FILE_HISTORY_DIALOG_COMMENTS_SPLITTER_PROPORTION" value="0.8" />
+    <option name="FILE_HISTORY_DIALOG_SPLITTER_PROPORTION" value="0.5" />
+    <option name="ACTIVE_VCS_NAME" />
+    <option name="UPDATE_GROUP_BY_PACKAGES" value="false" />
+    <option name="UPDATE_GROUP_BY_CHANGELIST" value="false" />
+    <option name="UPDATE_FILTER_BY_SCOPE" value="false" />
+    <option name="SHOW_FILE_HISTORY_AS_TREE" value="false" />
+    <option name="FILE_HISTORY_SPLITTER_PROPORTION" value="0.6" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="4" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/app/view_savings.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/teller.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="60" column="41" selection-start="1513" selection-end="1513" vertical-scroll-proportion="0.0">
+          <folding>
+            <element signature="e#68#281#0" expanded="false" />
+            <element signature="e#325#554#0" expanded="false" />
+            <element signature="e#612#955#0" expanded="false" />
+            <element signature="e#1031#1441#0" expanded="false" />
+            <element signature="e#1513#3102#0" expanded="false" />
+            <element signature="e#3193#4664#0" expanded="false" />
+            <element signature="e#4759#6233#0" expanded="false" />
+            <element signature="n#!!block;n#editCustomers#0" expanded="false" />
+            <element signature="n#!!block;n#viewCustomersInfo#0" expanded="false" />
+            <element signature="n#!!block;n#viewSavingsRecords#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/customer.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="33" column="14" selection-start="529" selection-end="529" vertical-scroll-proportion="0.0" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/view_name.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="4" column="0" selection-start="97" selection-end="97" vertical-scroll-proportion="-2.5" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/login.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="53" column="24" selection-start="1674" selection-end="1674" vertical-scroll-proportion="0.046511628" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/index.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="76" column="18" selection-start="2469" selection-end="2469" vertical-scroll-proportion="0.40358743" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/add_teller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="0" selection-start="384" selection-end="384" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/add_customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/customer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="14" column="32" selection-start="248" selection-end="248" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/css/teller.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="121" column="8" selection-start="1934" selection-end="1942" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="73" column="26" selection-start="2924" selection-end="2924" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DAO/BaseDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="28" selection-start="208" selection-end="211" vertical-scroll-proportion="0.0">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/teller.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="71" column="35" selection-start="3059" selection-end="3059" vertical-scroll-proportion="23.75">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/DAO/bankDao.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="49" column="22" selection-start="1764" selection-end="1764" vertical-scroll-proportion="12.5">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/deposit.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="11" column="2" selection-start="207" selection-end="207" vertical-scroll-proportion="-6.875">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/js/customer.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="13" selection-start="67" selection-end="67" vertical-scroll-proportion="0.06987578">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
+

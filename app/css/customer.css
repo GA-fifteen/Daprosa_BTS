@@ -1,0 +1,128 @@
+#first {
+    height: 650px;
+    background-color: #1E90FF;
+}
+#savings {
+    margin: 30px 0px 0px 50px;
+    overflow-Y: scroll ;
+    height: 400px;
+    width: 888px;
+}
+#addCustomer {
+    color: #000000;
+}
+#editing {
+    display: none;
+}
+.logIn{
+    color: white;
+    background-color: black;
+    /*text-shadow: 2px -2px 3px #000;*/
+    text-align: right;
+    font-family: purisa;
+
+}
+.table_header p{
+    text-align: center;
+    font-size: 20px;
+    color: #ffffff;
+}
+h1 {
+    color: white;
+    text-align: center;
+}
+#profileImage{
+    float: right;
+    width: 150px;
+    height: 150px;
+}
+#name_customer {
+    text-align: right;
+    font-size: 20px;
+    margin: 10px 10px 0px 0px;
+}
+a:hover {
+    text-align: center;
+    color: black;
+    background-color: #1E90FF;
+}
+#menu, #menu ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+#menu {
+    border: 1px solid #222;
+    background-color: #111;
+    background-image: linear-gradient(#444, #111);
+    border-radius: 6px;
+    box-shadow: 0 1px 1px #777;
+}
+#menu:before,
+#menu:after {
+    content: "";
+    display: table;
+}
+#menu:after {
+    clear: both;
+}
+#menu li {
+    float: left;
+    border-right: 1px solid #222;
+    box-shadow: 1px 0 0 #444;
+    position: relative;
+}
+#menu a {
+    float: left;
+    padding: 12px 30px;
+    color: #999;
+    text-transform: uppercase;
+    font: bold 12px Arial, Helvetica;
+    text-decoration: none;
+    text-shadow: 0 1px 0 #000;
+}
+#menu ul {
+    margin: 20px 0 0 0;
+    _margin: 0; /*IE6 only*/
+    opacity: 0;
+    visibility: hidden;
+    position: absolute;
+    top: 38px;
+    left: 0;
+    z-index: 1;
+    background: #444;
+    background: linear-gradient(#444, #111);
+    box-shadow: 0 -1px 0 rgba(255,255,255,.3);
+    border-radius: 3px;
+    transition: all .2s ease-in-out;
+}
+#menu li:hover > ul {
+    opacity: 1;
+    visibility: visible;
+    margin: 0;
+}
+#menu ul a {
+    padding: 10px;
+    width: 130px;
+    _height: 10px; /*IE6 only*/
+    display: block;
+    white-space: nowrap;
+    float: none;
+    text-transform: none;
+}
+#menu ul a:hover {
+    background-color: #0186ba;
+    background-image: linear-gradient(#04acec, #0186ba);
+}
+#menu ul li:first-child > a {
+    border-radius: 3px 3px 0 0;
+}
+#menu ul li:first-child > a:after {
+    content: '';
+    position: absolute;
+    left: 40px;
+    top: -6px;
+    border-left: 6px solid transparent;
+    border-right: 6px solid transparent;
+    border-bottom: 6px solid #444;
+}
